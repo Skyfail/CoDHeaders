@@ -1,0 +1,1 @@
+This repo contains some C Headers extracted from leaked CoD debug information using IDA.
